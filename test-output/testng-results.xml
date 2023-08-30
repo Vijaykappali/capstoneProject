@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-31T00:09:51 IST" name="Suite" finished-at="2023-08-31T00:10:08 IST" duration-ms="16459">
+    <groups>
+    </groups>
+    <test started-at="2023-08-31T00:09:51 IST" name="Test" finished-at="2023-08-31T00:10:08 IST" duration-ms="16459">
+      <class name="com.sdet.tests.TestCases">
+        <test-method is-config="true" signature="suiteSetUp()[pri:0, instance:com.sdet.tests.TestCases@50b5ac82]" started-at="2023-08-31T00:09:49 IST" name="suiteSetUp" finished-at="2023-08-31T00:09:51 IST" duration-ms="2724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetUp -->
+        <test-method signature="testFillContactForm()[pri:0, instance:com.sdet.tests.TestCases@50b5ac82]" started-at="2023-08-31T00:09:51 IST" name="testFillContactForm" finished-at="2023-08-31T00:10:00 IST" duration-ms="8773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFillContactForm -->
+        <test-method signature="testVerifyTitles()[pri:0, instance:com.sdet.tests.TestCases@50b5ac82]" started-at="2023-08-31T00:10:00 IST" name="testVerifyTitles" finished-at="2023-08-31T00:10:08 IST" duration-ms="7660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyTitles -->
+        <test-method is-config="true" signature="suiteTearDown()[pri:0, instance:com.sdet.tests.TestCases@50b5ac82]" started-at="2023-08-31T00:10:08 IST" name="suiteTearDown" finished-at="2023-08-31T00:10:08 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+      </class> <!-- com.sdet.tests.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
